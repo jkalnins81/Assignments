@@ -39,7 +39,7 @@ public class AssignmentLecture3 : ProcessingLite.GP21
     {
         
 
-        while (Input.GetMouseButtonDown(0)) // true every frame the button is pressed
+        while (Input.GetMouseButtonUp(0)) // true every frame the button is pressed
         {
             directionOfCircleToMouse = new Vector2(MouseX - circleX, MouseY - circleY).normalized;
 
