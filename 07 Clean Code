@@ -1,0 +1,7 @@
+Completed this through refining code in my Prototype. 
+Things such as: Removing unnecessary items out of Update functions. 
+Removing GetComponent out of updates. Re-writing bools to exclude "==". 
+Re-naming variables.
+Removing unnecessary spacing.
+Hiding in Inspector public variables that are assigned through script but still need to be accessed by other scripts.
+And more...
